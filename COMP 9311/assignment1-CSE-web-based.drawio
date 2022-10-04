@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T08:10:07.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bF0NiPUvwj49I13DBfUC" version="20.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-04T08:11:11.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="gLrdZGb_lPz2_xmigMJ7" version="20.3.7" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1796" dy="1632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -312,7 +312,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nQmnyNFSFos6eswjvVM8" name="users and groups">
-    <mxGraphModel dx="1773" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1823" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,7 +323,7 @@
           <mxGeometry x="-60" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A9Y2W4eO2rQ6gUOknwV4-3" value="email_adress" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="60" width="80" height="40" as="geometry" />
+          <mxGeometry x="60" y="72" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A9Y2W4eO2rQ6gUOknwV4-4" value="&lt;u&gt;username&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="100" width="70" height="40" as="geometry" />
@@ -359,7 +359,7 @@
           <mxGeometry x="420" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A9Y2W4eO2rQ6gUOknwV4-11" value="&lt;u&gt;name&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="-35" width="70" height="30" as="geometry" />
+          <mxGeometry x="445" y="50" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A9Y2W4eO2rQ6gUOknwV4-13" value="participate" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="210" width="80" height="50" as="geometry" />
@@ -401,15 +401,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9us54tgnbXtBCPsU2a0J-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;the entity of users uses username as the primary key,&amp;nbsp;&lt;br&gt;so eatch username need be unique.&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="80" width="360" height="50" as="geometry" />
+          <mxGeometry x="80" y="170" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x7o4gpXlge3EvPA5ugtM-1" value="use the name of goups as primary key,&lt;br&gt;so the group&#39;s name also need be unique." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="50" width="280" height="50" as="geometry" />
+          <mxGeometry x="360" y="90" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x7o4gpXlge3EvPA5ugtM-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;In this part, users should be divided into two parts,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;one is the team member, namely team members.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The others are owners, namely captains.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;each group have one captain, but one leader(captain) may have&amp;nbsp;&lt;br&gt;a lot of groups.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;each team number must have one group, but one group&lt;br&gt;&amp;nbsp;corresponding to many team numbers.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="100" y="-290" width="420" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="2Tj5D7AQ9OM5GI8xZl---2" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="A9Y2W4eO2rQ6gUOknwV4-10" target="A9Y2W4eO2rQ6gUOknwV4-11">
+        <mxCell id="2Tj5D7AQ9OM5GI8xZl---2" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A9Y2W4eO2rQ6gUOknwV4-10" target="A9Y2W4eO2rQ6gUOknwV4-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="50" as="sourcePoint" />
             <mxPoint x="560" as="targetPoint" />
